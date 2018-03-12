@@ -1,7 +1,5 @@
 # Spring Cloud Streams Kafka Demo
 
-Sample application using Spring Boot, Spring Cloud Stream and Kafka
-
 This sample project demonstrates how to build real-time streaming applications using event-driven architecture, Spring Boot, Spring Cloud Stream, Apache Kafka, and Lombok.
 
 By the end of this tutorial, you'll have a simple Spring Boot-based Greetings microservice running. that
